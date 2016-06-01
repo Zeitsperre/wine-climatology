@@ -1,6 +1,6 @@
 # wine-climatology
 
-A collection scripts for performing climate suitability analyses for wine
+A collection scripts for performing climate suitability analyses for wine viticulture
 
 ## About
 
@@ -21,7 +21,7 @@ This repository contains a handful of pyQGIS scripts produced in QGIS 2.14.2 to 
 ### Hydrothermic Index (for grids)
   (Branas, J., Bernon, G., & Levadoux, L. (1946). Eléments de Vticulture Générale. Montpellier, Bordeaux: impr. de Delmas.)
 
-### Other indexes are being coded.
+### Other indexes are being developed for QGIS
 
 ## Insructions
 
