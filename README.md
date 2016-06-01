@@ -12,7 +12,7 @@ This repository contains a handful of pyQGIS scripts produced in QGIS 2.14.2 to 
 ### Huglin Heliothermal Index (for grids)
   (Huglin, P. (1978). Nouveau mode d’évaluation des possibilités héliothermiques d’un milieu viticole. In Symposium International sur l’Écologie de la Vigne (pp. 89–98). Constança, Roumanie: Ministère de l’Agriculture et de l’Industrie Alimentaire.)
 
-### Biologically Effective Growing Degree Days (for grids
+### Biologically Effective Growing Degree Days (for grids)
   (Gladstones, J. (1992). Viticulture and Environment. Adelaide: Winetitles.)
 
 ### Latitude-Temperatue Index (for points, WIP)
