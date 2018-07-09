@@ -6,7 +6,7 @@ These scripts accompany the M.Sc. thesis of Trevor James Smith entitled "Open Ge
 
 ## About
 
-This repository contains a handful of pyQGIS scripts produced in QGIS 2.14.2 to work with multi-band raster grids of raw graded climate data (monthly minimum, maximum, and mean temperatures and mean precipitation) to calculate agroclimatic indexes. Some indexes precompiled include:
+This repository contains a handful of PyQGIS scripts produced in QGIS 2.14.2 to work with multi-band raster grids of raw graded climate data (monthly minimum, maximum, and mean temperatures and mean precipitation) to calculate agroclimatic indexes. Some indexes precompiled include:
 
 ## Scripts
 
