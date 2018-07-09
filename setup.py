@@ -18,7 +18,7 @@ install_requires = [x.strip() for x in all_reqs if 'git+' not in x]
 dependency_links = [x.strip().replace('git+', '') for x in all_reqs if x.startswith('git+')]
 
 setup(
-    name='vinoclimatology',
+    name='wine_climatology',
     version=__version__,
     description='A collection of tools for performing agroclimatologies in Python or QGIS',
     long_description=long_description,
